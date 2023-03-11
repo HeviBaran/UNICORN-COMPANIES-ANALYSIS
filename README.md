@@ -19,4 +19,4 @@ Artificial Intelligence Industry is growing very fast So this land can be more a
 
 
 
-<a href="https://github.com/HeviBaran/UNICORN-COMPANIES-ANALYSIS><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/UNICORN-COMPANIES-ANALYSIS"></a>
+<a href="https://github.com/HeviBaran/UNICORN-COMPANIES-ANALYSIS><img align=png"left" width="auto" height="auto" src="https://github.com/HeviBaran/UNICORN-COMPANIES-ANALYSIS"></a>
